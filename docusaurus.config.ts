@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Nelson Costa',
-  tagline: 'With effort and persistence, the unknown slowly becomes known',
+  tagline: 'With effort and persistence, the unknown slowly becomes known...',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/necosta/website/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -51,7 +51,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/necosta/website/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -103,6 +103,10 @@ const config: Config = {
         {
           title: 'Community',
           items: [
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/nelsoncosta85/',
+            },
             {
               label: 'Medium',
               href: 'https://medium.com/@nelsoncosta85',

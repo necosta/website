@@ -4,4 +4,4 @@ sidebar_position: 1
 
 # Intro
 
-Pocket guide is a "cheat sheet" on several aspects of software development.
+Pocket guide contains a generic collection of notes on the several areas of software development

@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Pocket Guide - 5min ⏱️
+            Software Pocket Guide
           </Link>
         </div>
       </div>
