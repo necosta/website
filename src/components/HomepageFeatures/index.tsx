@@ -1,5 +1,6 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
@@ -15,7 +16,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        TBD
+        Check <Link to="https://github.com">here</Link>
       </>
     ),
   },
@@ -24,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        TBD
+        Dad, Husband, Traveller, Learner
       </>
     ),
   },
@@ -33,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        TBD
+        Check <Link to="https://github.com">here</Link>
       </>
     ),
   },

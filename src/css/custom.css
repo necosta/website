@@ -17,6 +17,25 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+.hero.hero--primary {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)),
+    url('/img/porto_day.jpg') no-repeat center center;
+  background-size: cover;
+}
+.hero__title {
+  color: white !important;
+  font-weight: bold;
+}
+.hero__subtitle {
+  color: white !important;
+  font-weight: bold;
+}
+/* dark mode custom css */
+html[data-theme='dark'] .hero.hero--primary {
+  background: url('/img/porto_night.png') no-repeat center center;
+  background-size: cover;
+}
+
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
@@ -28,3 +47,4 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+

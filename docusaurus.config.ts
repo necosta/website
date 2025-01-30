@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Nelson Costa',
-  tagline: 'With effort and persistence, the unknown slowly becomes known...',
+  tagline: 'Turning coffee into code, one cup at a time',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -68,7 +68,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Website',
+      title: 'Home',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -136,6 +136,12 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    docs: {
+      sidebar: {
+        hideable: false,  // Ensures the sidebar cannot be collapsed manually
+        autoCollapseCategories: false, // Keeps all categories open by default
+      },
     },
     colorMode: {
         defaultMode: 'dark', // Set the default mode to dark
