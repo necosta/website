@@ -14,7 +14,21 @@
         <updated>2025-01-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[My personal ranking of programming languages]]></summary>
         <content type="html"><![CDATA[<p>My personal ranking of programming languages</p>
-<p>TBD...</p>]]></content>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-winner---scala">The winner - Scala<a href="https://necosta.github.io/website/blog/lang-ranking#the-winner---scala" class="hash-link" aria-label="Direct link to The winner - Scala" title="Direct link to The winner - Scala">​</a></h3>
+<p>Anyone that knows me well, knows that I rank Scala as the best, most enjoyable language to write software code.</p>
+<p>The flexibility it provides (from more "Java-like" structure to pure functional code), and the expressiveness of the
+language (pattern matching, higher-order functions), I feel I can both write and understand the code with ease.</p>
+<p>I understand and respect the criticism on the steep learning curve it requires.
+But personally I would rather invest on climbing that learning curve and have a more solid and maintainable application
+than pay the price of developing on another language and have bugs, runtime exceptions and/or poor maintainability
+down the road.</p>
+<p>TBC...</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="strong-seconds---kotlin--java-crystal-rust">Strong seconds - Kotlin , Java, Crystal, Rust<a href="https://necosta.github.io/website/blog/lang-ranking#strong-seconds---kotlin--java-crystal-rust" class="hash-link" aria-label="Direct link to Strong seconds - Kotlin , Java, Crystal, Rust" title="Direct link to Strong seconds - Kotlin , Java, Crystal, Rust">​</a></h3>
+<p>TBC...</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="honourable-mentions---typescript">Honourable mentions - Typescript<a href="https://necosta.github.io/website/blog/lang-ranking#honourable-mentions---typescript" class="hash-link" aria-label="Direct link to Honourable mentions - Typescript" title="Direct link to Honourable mentions - Typescript">​</a></h3>
+<p>TBC...</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="not-my-cup-of-tee---go-and-python">Not my cup of tee - Go and Python<a href="https://necosta.github.io/website/blog/lang-ranking#not-my-cup-of-tee---go-and-python" class="hash-link" aria-label="Direct link to Not my cup of tee - Go and Python" title="Direct link to Not my cup of tee - Go and Python">​</a></h3>
+<p>TBC...</p>]]></content>
         <author>
             <name>Nelson Costa</name>
             <uri>https://github.com/necosta</uri>
