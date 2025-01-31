@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Check <Link to="https://github.com">here</Link>
+        Check <Link to="/cool-links">here</Link>
       </>
     ),
   },
@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Check <Link to="https://github.com">here</Link>
+        Check <Link to="/open-source-projects">here</Link>
       </>
     ),
   },
