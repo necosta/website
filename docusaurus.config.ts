@@ -71,7 +71,7 @@ const config: Config = {
       title: 'Home',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/nc_logo.png',
       },
       items: [
         {
