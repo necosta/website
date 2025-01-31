@@ -137,12 +137,6 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    docs: {
-      sidebar: {
-        hideable: false,  // Ensures the sidebar cannot be collapsed manually
-        autoCollapseCategories: false, // Keeps all categories open by default
-      },
-    },
     colorMode: {
         defaultMode: 'dark', // Set the default mode to dark
         disableSwitch: false, // Optional: Allow users to toggle between modes

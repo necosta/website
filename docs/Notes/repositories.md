@@ -58,7 +58,17 @@ Aspects:
 
 ## Performance
 
-* TBD
+* Ensure low latency APIs
+* Apply efficient serialization (Protobuf over JSON)
+* Apply compression on payloads
+* Apply indexing, use batch queries when possible
+* Introduce caching
+* Implement health checks
+* Benchmark JVM using JMH (Java Micro-benchmarking Harness)
+* Use the right collections
+* Choose the right GC
+* Minimise cold starts, configure auto-scaling
+* Use minimal base images
 
 ## Cost
 
@@ -66,7 +76,11 @@ Aspects:
 
 ## Security
 
-* TBD 
+* Authentication and Authorization
+* Sanitise input (protect against SQL injection)
+* Rate limit 
+* Apply Least Privilege principle
+* Ensure GDPR & Privacy Laws
 
 ## Infrastructure
 
