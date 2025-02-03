@@ -37,8 +37,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/necosta/website/tree/main/',
         },
@@ -48,8 +46,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/necosta/website/tree/main/',
           // Useful options to enforce blogging best practices
@@ -78,7 +74,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'Knowledge',
         },
         {to: '/blog', label: 'Posts', position: 'left'},
         {
@@ -92,11 +88,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Knowledge',
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/knowledge/intro',
             },
           ],
         },

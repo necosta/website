@@ -33,19 +33,21 @@ Aspects:
 ## Tests
 
 * Unit tests
+  * Property-based testing 
 * Integration tests
 * Load tests
 * E2E tests
+* Performance tests (JMH)
 * Golden tests
 
 ## Documentation
 
-* README - How to section
-* API usage
+* README - Always have a "How to" section
+* Always document API (swagger)
 
 ## CI/CD
 
-  * Pipeline configuration
+* Pipeline configuration to build, test, deploy
 
 ## Observability
 
