@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://necosta.github.io/website/blog</id>
     <title>Nelson Costa Blog</title>
-    <updated>2025-01-30T00:00:00.000Z</updated>
+    <updated>2025-02-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://necosta.github.io/website/blog"/>
     <subtitle>Nelson Costa Blog</subtitle>
     <icon>https://necosta.github.io/website/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The software laws to follow]]></title>
+        <id>https://necosta.github.io/website/blog/software-laws</id>
+        <link href="https://necosta.github.io/website/blog/software-laws"/>
+        <updated>2025-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some of the most import software principles to follow:]]></summary>
+        <content type="html"><![CDATA[<p>Some of the most import software principles to follow:</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="goodhart-law">Goodhart law<a href="https://necosta.github.io/website/blog/software-laws#goodhart-law" class="hash-link" aria-label="Direct link to Goodhart law" title="Direct link to Goodhart law">​</a></h3>
+<blockquote>
+<p>When a measure becomes a target, it ceases to become a good measure</p>
+</blockquote>
+<p>TBD...</p>]]></content>
+        <author>
+            <name>Nelson Costa</name>
+            <uri>https://github.com/necosta</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My programming language ranking]]></title>
         <id>https://necosta.github.io/website/blog/lang-ranking</id>

@@ -4,10 +4,24 @@
         <title>Nelson Costa Blog</title>
         <link>https://necosta.github.io/website/blog</link>
         <description>Nelson Costa Blog</description>
-        <lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The software laws to follow]]></title>
+            <link>https://necosta.github.io/website/blog/software-laws</link>
+            <guid>https://necosta.github.io/website/blog/software-laws</guid>
+            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Some of the most import software principles to follow:]]></description>
+            <content:encoded><![CDATA[<p>Some of the most import software principles to follow:</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="goodhart-law">Goodhart law<a href="https://necosta.github.io/website/blog/software-laws#goodhart-law" class="hash-link" aria-label="Direct link to Goodhart law" title="Direct link to Goodhart law">​</a></h3>
+<blockquote>
+<p>When a measure becomes a target, it ceases to become a good measure</p>
+</blockquote>
+<p>TBD...</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[My programming language ranking]]></title>
             <link>https://necosta.github.io/website/blog/lang-ranking</link>
