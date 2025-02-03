@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Dad, Husband, Traveller, Learner
+        Dad, Husband, Traveller
       </>
     ),
   },
