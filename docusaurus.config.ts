@@ -68,6 +68,11 @@ const config: Config = {
         groupByYear: false,
       },
     },
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true,
+      },
+    },
     navbar: {
       title: 'Home',
       logo: {
