@@ -5,7 +5,7 @@ authors: [necosta]
 tags: []
 ---
 
-My personal ranking of programming languages, just because I feel like it
+My personal ranking of programming languages (just because I feel like it).
 
 <!-- truncate -->
 
