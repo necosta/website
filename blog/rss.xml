@@ -9,26 +9,58 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[The software laws to follow]]></title>
+            <title><![CDATA[Software laws to follow]]></title>
             <link>https://necosta.github.io/website/blog/software-laws</link>
             <guid>https://necosta.github.io/website/blog/software-laws</guid>
             <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Some of the most import software principles to follow:]]></description>
-            <content:encoded><![CDATA[<p>Some of the most import software principles to follow:</p>
+            <description><![CDATA[Some of the most import software laws to be aware of.]]></description>
+            <content:encoded><![CDATA[<p>Some of the most import software laws to be aware of.</p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="goodhart-law">Goodhart law<a href="https://necosta.github.io/website/blog/software-laws#goodhart-law" class="hash-link" aria-label="Direct link to Goodhart law" title="Direct link to Goodhart law">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="goodharts-law">Goodhart's Law<a href="https://necosta.github.io/website/blog/software-laws#goodharts-law" class="hash-link" aria-label="Direct link to Goodhart's Law" title="Direct link to Goodhart's Law">​</a></h3>
 <blockquote>
 <p>When a measure becomes a target, it ceases to become a good measure</p>
 </blockquote>
-<p>TBD...</p>]]></content:encoded>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="murphys-law">Murphy's Law<a href="https://necosta.github.io/website/blog/software-laws#murphys-law" class="hash-link" aria-label="Direct link to Murphy's Law" title="Direct link to Murphy's Law">​</a></h3>
+<blockquote>
+<p>Anything that can go wrong, will go wrong</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="conways-law">Conway's Law<a href="https://necosta.github.io/website/blog/software-laws#conways-law" class="hash-link" aria-label="Direct link to Conway's Law" title="Direct link to Conway's Law">​</a></h3>
+<blockquote>
+<p>Organizations design systems that mirror their own communication structure</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="amdahls-law">Amdahl's Law<a href="https://necosta.github.io/website/blog/software-laws#amdahls-law" class="hash-link" aria-label="Direct link to Amdahl's Law" title="Direct link to Amdahl's Law">​</a></h3>
+<blockquote>
+<p>The performance improvement gained by optimizing a single part of a system is limited
+by the fraction of time that the improved part is actually used</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="parkinsons-law">Parkinson's Law<a href="https://necosta.github.io/website/blog/software-laws#parkinsons-law" class="hash-link" aria-label="Direct link to Parkinson's Law" title="Direct link to Parkinson's Law">​</a></h3>
+<blockquote>
+<p>Work expands to fill the time available for its completion</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="brookss-law">Brooks's Law<a href="https://necosta.github.io/website/blog/software-laws#brookss-law" class="hash-link" aria-label="Direct link to Brooks's Law" title="Direct link to Brooks's Law">​</a></h3>
+<blockquote>
+<p>Adding manpower to a late software project makes it later</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="segals-law">Segal's law:<a href="https://necosta.github.io/website/blog/software-laws#segals-law" class="hash-link" aria-label="Direct link to Segal's law:" title="Direct link to Segal's law:">​</a></h3>
+<blockquote>
+<p>A man with a watch knows what time it is. A man with two watches is never sure</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cunninghams-law">Cunningham's Law<a href="https://necosta.github.io/website/blog/software-laws#cunninghams-law" class="hash-link" aria-label="Direct link to Cunningham's Law" title="Direct link to Cunningham's Law">​</a></h3>
+<blockquote>
+<p>The best way to get the right answer from a community is not to ask a question, it's to post the wrong answer</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="humphreys-law">Humphrey's Law<a href="https://necosta.github.io/website/blog/software-laws#humphreys-law" class="hash-link" aria-label="Direct link to Humphrey's Law" title="Direct link to Humphrey's Law">​</a></h3>
+<blockquote>
+<p>The user will never know what they want until after they use it (and maybe not even then)</p>
+</blockquote>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[My programming language ranking]]></title>
             <link>https://necosta.github.io/website/blog/lang-ranking</link>
             <guid>https://necosta.github.io/website/blog/lang-ranking</guid>
             <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[My personal ranking of programming languages, just because I feel like it]]></description>
-            <content:encoded><![CDATA[<p>My personal ranking of programming languages, just because I feel like it</p>
+            <description><![CDATA[My personal ranking of programming languages (just because I feel like it).]]></description>
+            <content:encoded><![CDATA[<p>My personal ranking of programming languages (just because I feel like it).</p>
 <hr>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-winner---scala">The winner - Scala<a href="https://necosta.github.io/website/blog/lang-ranking#the-winner---scala" class="hash-link" aria-label="Direct link to The winner - Scala" title="Direct link to The winner - Scala">​</a></h3>
 <p>Anyone that knows me well, knows that I rank Scala as the best, most enjoyable language to write software code.</p>
