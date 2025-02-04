@@ -1,0 +1,8 @@
+{
+  "label": "Technology",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "General notes about some software development technologies"
+  }
+}

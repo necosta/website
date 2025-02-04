@@ -2,11 +2,15 @@
 sidebar_position: 5
 ---
 
-# Machine Learning
+# AI and ML
+
+A deep-dive into Artificial Intelligence and Machine Learning
+
+## Machine Learning
 
 TBD...
 
-# Artificial Intelligence
+## Artificial Intelligence
 
 - LLM (Large Language Models)
   - Category of AI models that are trained on vast amounts of text data to understand and generate human-like text
