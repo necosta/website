@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import CookieConsentBanner from '../../components/CookieConsent';
 
 type FeatureItem = {
   title: string;
@@ -64,6 +65,7 @@ export default function HomepageFeatures(): ReactNode {
           ))}
         </div>
       </div>
+      <CookieConsentBanner />
     </section>
   );
 }

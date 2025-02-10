@@ -4,6 +4,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+function isConsentGiven(): boolean {
+  if (typeof document !== "undefined") {
+    return document.cookie.includes("cookieConsent=true");
+  }
+  return false;
+}
+
 const config: Config = {
   title: 'Nelson Costa',
   tagline: 'Turning coffee into code, one cup at a time',
@@ -60,6 +67,18 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@docusaurus/plugin-google-gtag",
+      isConsentGiven() ? {
+        trackingID: "G-9DQ6CP49LR",
+        anonymizeIP: false,
+      } : {
+        trackingID: "G-XXXXXXXXXX",
+        anonymizeIP: true,
+      },
+    ],
+  ],
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
