@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 function isConsentGiven(): boolean {
   if (typeof document !== "undefined") {
-    return document.cookie.includes("cookieConsent=true");
+    return document.cookie.includes("myCookieConsent=true");
   }
   return false;
 }
