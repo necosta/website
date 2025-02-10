@@ -4,7 +4,7 @@
         <title>Nelson Costa Blog</title>
         <link>https://necosta.github.io/website/blog</link>
         <description>Nelson Costa Blog</description>
-        <lastBuildDate>Mon, 10 Feb 2025 11:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 15:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[My professional journey]]></title>
             <link>https://necosta.github.io/website/blog/professional-journey</link>
             <guid>https://necosta.github.io/website/blog/professional-journey</guid>
-            <pubDate>Mon, 10 Feb 2025 11:50:48 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 15:19:25 GMT</pubDate>
             <description><![CDATA[My professional journey, technologies, highlights and life-long impressions.]]></description>
             <content:encoded><![CDATA[<p>My professional journey, technologies, highlights and life-long impressions.</p>
 <hr>
@@ -133,7 +133,7 @@ I definitely feel I grew once again as an engineer.</p>
             <title><![CDATA[My programming language ranking]]></title>
             <link>https://necosta.github.io/website/blog/lang-ranking</link>
             <guid>https://necosta.github.io/website/blog/lang-ranking</guid>
-            <pubDate>Mon, 10 Feb 2025 11:50:48 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 15:19:25 GMT</pubDate>
             <description><![CDATA[My personal ranking of programming languages (just because I feel like it).]]></description>
             <content:encoded><![CDATA[<p>My personal ranking of programming languages (just because I feel like it).</p>
 <hr>
@@ -164,7 +164,7 @@ on a live production application.</p>]]></content:encoded>
             <title><![CDATA[Software laws to follow]]></title>
             <link>https://necosta.github.io/website/blog/software-laws</link>
             <guid>https://necosta.github.io/website/blog/software-laws</guid>
-            <pubDate>Mon, 10 Feb 2025 11:50:48 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 15:19:25 GMT</pubDate>
             <description><![CDATA[Some of the most import software laws to be aware of.]]></description>
             <content:encoded><![CDATA[<p>Some of the most import software laws to be aware of.</p>
 <hr>
