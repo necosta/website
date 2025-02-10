@@ -12,3 +12,10 @@ Breakdown of database types and functionality
 - No-SQL (example: `DynamoDB`)
 - Memory (example: `Redis`)
 - Graph (example: `Neo4J`)
+
+## Aspects
+
+- Indexing
+- Transactions
+- Schema design
+- Query optimizations

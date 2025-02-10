@@ -44,6 +44,7 @@ Relevant questions to ask recruiters when applying for a new position
   - Do you provide laptop?
 - Contract
   - What is the contract mode and salary range for the position?
+  - Do you support flexibility over working hours?
 
 ## What can I offer?
 

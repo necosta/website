@@ -71,18 +71,20 @@ Aspects:
 * Choose the right GC
 * Minimise cold starts, configure auto-scaling
 * Use minimal base images
+* Attention to memory management, concurrency and parallelization
 
 ## Cost
 
-* Running costs 
+* Cloud running costs
 
 ## Security
 
 * Authentication and Authorization
 * Sanitise input (protect against SQL injection)
-* Rate limit 
+* Rate limit
 * Apply Least Privilege principle
 * Ensure GDPR & Privacy Laws
+* Data encryption
 
 ## Infrastructure
 

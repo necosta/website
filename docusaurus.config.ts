@@ -137,7 +137,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Nelson Costa Website, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Nelson Costa Website, Email: nelson.costa85@gmail.com`,
     },
     prism: {
       theme: prismThemes.github,
