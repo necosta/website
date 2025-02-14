@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Collections
 
-## Scala Collections
+Deep dive on the different collections available in Scala and Java
 
-Deep dive on the different collections available in Scala:
+## Scala Collections
 
 | Collection   | Description                                             | Similar                   |
 |--------------|---------------------------------------------------------|:--------------------------|

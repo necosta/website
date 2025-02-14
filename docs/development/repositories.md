@@ -21,14 +21,17 @@ Aspects:
 ## Source code
 
 * SOLID Principles: Modular, scalable and maintainable code
-  * S - Single-responsibility Principle
-  * O - Open-closed Principle
-  * L - Liskov Substitution Principle
-  * I - Interface Segregation Principle
-  * D - Dependency Inversion Principle  
+  * S - Single-responsibility Principle - A class should have only one reason to change
+  * O - Open-closed Principle - Entities should be open for extension but closed for modification
+  * L - Liskov Substitution Principle - Subtypes must be substitutable for their base types
+  * I - Interface Segregation Principle - A class should not be forced to implement interfaces it does not use
+  * D - Dependency Inversion Principle - High-level modules should not depend on low-level modules. Both should depend on abstractions 
 * DRY (Don't Repeat Yourself): Avoid duplication by abstracting reusable logic
 * KISS (Keep It Simple, Stupid): Write simple, easy-to-understand code
 * YAGNI (You Ain’t Gonna Need It): Avoid premature optimizations and unnecessary features
+* APO (Avoid Premature Optimisations): First, make it work. Then, make it right. Then, make it fast
+* KFS (Keep Functions Small): Each function should do one thing and do it well
+* FF (Fail Fast): Detect and handle errors as early as possible
 
 ## Tests
 
@@ -36,18 +39,25 @@ Aspects:
   * Property-based testing 
 * Integration tests
 * Load tests
+* Smoke tests
 * E2E tests
 * Performance tests (JMH)
-* Golden tests
+* Golden/Regression tests
+
+Other:
+
+* Penetration Tests
+* A/B Tests
 
 ## Documentation
 
 * README - Always have a "How to" section
 * Always document API (swagger)
+* Have a runbook available
 
 ## CI/CD
 
-* Pipeline configuration to build, test, deploy
+* Pipeline configuration to build, test and deploy
 
 ## Observability
 
