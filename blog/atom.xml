@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://necosta.github.io/website/blog</id>
     <title>Nelson Costa Blog</title>
-    <updated>2025-02-10T23:48:36.000Z</updated>
+    <updated>2025-02-14T21:01:24.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://necosta.github.io/website/blog"/>
     <subtitle>Nelson Costa Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[My professional journey]]></title>
         <id>https://necosta.github.io/website/blog/professional-journey</id>
         <link href="https://necosta.github.io/website/blog/professional-journey"/>
-        <updated>2025-02-10T23:48:36.000Z</updated>
+        <updated>2025-02-14T21:01:24.000Z</updated>
         <summary type="html"><![CDATA[My professional journey, technologies, highlights and life-long impressions.]]></summary>
         <content type="html"><![CDATA[<p>My professional journey, technologies, highlights and life-long impressions.</p>
 <hr>
@@ -136,7 +136,7 @@ I definitely feel I grew once again as an engineer.</p>
         <title type="html"><![CDATA[My programming language ranking]]></title>
         <id>https://necosta.github.io/website/blog/lang-ranking</id>
         <link href="https://necosta.github.io/website/blog/lang-ranking"/>
-        <updated>2025-02-10T23:48:36.000Z</updated>
+        <updated>2025-02-14T21:01:24.000Z</updated>
         <summary type="html"><![CDATA[My personal ranking of programming languages (just because I feel like it).]]></summary>
         <content type="html"><![CDATA[<p>My personal ranking of programming languages (just because I feel like it).</p>
 <hr>
@@ -171,7 +171,7 @@ on a live production application.</p>]]></content>
         <title type="html"><![CDATA[Software laws to follow]]></title>
         <id>https://necosta.github.io/website/blog/software-laws</id>
         <link href="https://necosta.github.io/website/blog/software-laws"/>
-        <updated>2025-02-10T23:48:36.000Z</updated>
+        <updated>2025-02-14T21:01:24.000Z</updated>
         <summary type="html"><![CDATA[Some of the most import software laws to be aware of.]]></summary>
         <content type="html"><![CDATA[<p>Some of the most import software laws to be aware of.</p>
 <hr>

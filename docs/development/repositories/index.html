@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.7.0">
 <title data-rh="true">Repositories | Nelson Costa</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://necosta.github.io/website/img/nc_logo.png"><meta data-rh="true" name="twitter:image" content="https://necosta.github.io/website/img/nc_logo.png"><meta data-rh="true" property="og:url" content="https://necosta.github.io/website/docs/development/repositories"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Repositories | Nelson Costa"><meta data-rh="true" name="description" content="What to take in consideration when building an application"><meta data-rh="true" property="og:description" content="What to take in consideration when building an application"><link data-rh="true" rel="icon" href="/website/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://necosta.github.io/website/docs/development/repositories"><link data-rh="true" rel="alternate" href="https://necosta.github.io/website/docs/development/repositories" hreflang="en"><link data-rh="true" rel="alternate" href="https://necosta.github.io/website/docs/development/repositories" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/website/blog/rss.xml" title="Nelson Costa RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/website/blog/atom.xml" title="Nelson Costa Atom Feed"><link rel="stylesheet" href="/website/assets/css/styles.3cc33fe6.css">
-<script src="/website/assets/js/runtime~main.ca99a678.js" defer="defer"></script>
+<script src="/website/assets/js/runtime~main.678b0dfd.js" defer="defer"></script>
 <script src="/website/assets/js/main.ca36f0d3.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -27,16 +27,19 @@
 <ul>
 <li>SOLID Principles: Modular, scalable and maintainable code<!-- -->
 <ul>
-<li>S - Single-responsibility Principle</li>
-<li>O - Open-closed Principle</li>
-<li>L - Liskov Substitution Principle</li>
-<li>I - Interface Segregation Principle</li>
-<li>D - Dependency Inversion Principle</li>
+<li>S - Single-responsibility Principle - A class should have only one reason to change</li>
+<li>O - Open-closed Principle - Entities should be open for extension but closed for modification</li>
+<li>L - Liskov Substitution Principle - Subtypes must be substitutable for their base types</li>
+<li>I - Interface Segregation Principle - A class should not be forced to implement interfaces it does not use</li>
+<li>D - Dependency Inversion Principle - High-level modules should not depend on low-level modules. Both should depend on abstractions</li>
 </ul>
 </li>
 <li>DRY (Don&#x27;t Repeat Yourself): Avoid duplication by abstracting reusable logic</li>
 <li>KISS (Keep It Simple, Stupid): Write simple, easy-to-understand code</li>
 <li>YAGNI (You Ain’t Gonna Need It): Avoid premature optimizations and unnecessary features</li>
+<li>APO (Avoid Premature Optimisations): First, make it work. Then, make it right. Then, make it fast</li>
+<li>KFS (Keep Functions Small): Each function should do one thing and do it well</li>
+<li>FF (Fail Fast): Detect and handle errors as early as possible</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="tests">Tests<a href="#tests" class="hash-link" aria-label="Direct link to Tests" title="Direct link to Tests">​</a></h2>
 <ul>
@@ -47,18 +50,25 @@
 </li>
 <li>Integration tests</li>
 <li>Load tests</li>
+<li>Smoke tests</li>
 <li>E2E tests</li>
 <li>Performance tests (JMH)</li>
-<li>Golden tests</li>
+<li>Golden/Regression tests</li>
+</ul>
+<p>Other:</p>
+<ul>
+<li>Penetration Tests</li>
+<li>A/B Tests</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="documentation">Documentation<a href="#documentation" class="hash-link" aria-label="Direct link to Documentation" title="Direct link to Documentation">​</a></h2>
 <ul>
 <li>README - Always have a &quot;How to&quot; section</li>
 <li>Always document API (swagger)</li>
+<li>Have a runbook available</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="cicd">CI/CD<a href="#cicd" class="hash-link" aria-label="Direct link to CI/CD" title="Direct link to CI/CD">​</a></h2>
 <ul>
-<li>Pipeline configuration to build, test, deploy</li>
+<li>Pipeline configuration to build, test and deploy</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="observability">Observability<a href="#observability" class="hash-link" aria-label="Direct link to Observability" title="Direct link to Observability">​</a></h2>
 <ul>
