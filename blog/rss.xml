@@ -4,15 +4,92 @@
         <title>Nelson Costa Blog</title>
         <link>https://necosta.github.io/website/blog</link>
         <description>Nelson Costa Blog</description>
-        <lastBuildDate>Fri, 14 Feb 2025 21:01:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[Software laws to follow]]></title>
+            <link>https://necosta.github.io/website/blog/software-laws</link>
+            <guid>https://necosta.github.io/website/blog/software-laws</guid>
+            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Some of the most import software laws to be aware of.]]></description>
+            <content:encoded><![CDATA[<p>Some of the most import software laws to be aware of.</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="goodharts-law">Goodhart's Law<a href="https://necosta.github.io/website/blog/software-laws#goodharts-law" class="hash-link" aria-label="Direct link to Goodhart's Law" title="Direct link to Goodhart's Law">​</a></h3>
+<blockquote>
+<p>When a measure becomes a target, it ceases to become a good measure</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="murphys-law">Murphy's Law<a href="https://necosta.github.io/website/blog/software-laws#murphys-law" class="hash-link" aria-label="Direct link to Murphy's Law" title="Direct link to Murphy's Law">​</a></h3>
+<blockquote>
+<p>Anything that can go wrong, will go wrong</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="conways-law">Conway's Law<a href="https://necosta.github.io/website/blog/software-laws#conways-law" class="hash-link" aria-label="Direct link to Conway's Law" title="Direct link to Conway's Law">​</a></h3>
+<blockquote>
+<p>Organizations design systems that mirror their own communication structure</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="amdahls-law">Amdahl's Law<a href="https://necosta.github.io/website/blog/software-laws#amdahls-law" class="hash-link" aria-label="Direct link to Amdahl's Law" title="Direct link to Amdahl's Law">​</a></h3>
+<blockquote>
+<p>The performance improvement gained by optimizing a single part of a system is limited
+by the fraction of time that the improved part is actually used</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="parkinsons-law">Parkinson's Law<a href="https://necosta.github.io/website/blog/software-laws#parkinsons-law" class="hash-link" aria-label="Direct link to Parkinson's Law" title="Direct link to Parkinson's Law">​</a></h3>
+<blockquote>
+<p>Work expands to fill the time available for its completion</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="brookss-law">Brooks's Law<a href="https://necosta.github.io/website/blog/software-laws#brookss-law" class="hash-link" aria-label="Direct link to Brooks's Law" title="Direct link to Brooks's Law">​</a></h3>
+<blockquote>
+<p>Adding manpower to a late software project makes it later</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="segals-law">Segal's Law<a href="https://necosta.github.io/website/blog/software-laws#segals-law" class="hash-link" aria-label="Direct link to Segal's Law" title="Direct link to Segal's Law">​</a></h3>
+<blockquote>
+<p>A man with a watch knows what time it is. A man with two watches is never sure</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cunninghams-law">Cunningham's Law<a href="https://necosta.github.io/website/blog/software-laws#cunninghams-law" class="hash-link" aria-label="Direct link to Cunningham's Law" title="Direct link to Cunningham's Law">​</a></h3>
+<blockquote>
+<p>The best way to get the right answer from a community is not to ask a question, it's to post the wrong answer</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="humphreys-law">Humphrey's Law<a href="https://necosta.github.io/website/blog/software-laws#humphreys-law" class="hash-link" aria-label="Direct link to Humphrey's Law" title="Direct link to Humphrey's Law">​</a></h3>
+<blockquote>
+<p>The user will never know what they want until after they use it (and maybe not even then)</p>
+</blockquote>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[My programming language ranking]]></title>
+            <link>https://necosta.github.io/website/blog/lang-ranking</link>
+            <guid>https://necosta.github.io/website/blog/lang-ranking</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[My personal ranking of programming languages (just because I feel like it).]]></description>
+            <content:encoded><![CDATA[<p>My personal ranking of programming languages (just because I feel like it).</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-winner---scala">The winner - Scala<a href="https://necosta.github.io/website/blog/lang-ranking#the-winner---scala" class="hash-link" aria-label="Direct link to The winner - Scala" title="Direct link to The winner - Scala">​</a></h3>
+<p>Anyone that knows me well, knows that I rank Scala as the best, most enjoyable language to write software code.</p>
+<p>The flexibility it provides (from more "Java-like" structure to pure functional code), and the expressiveness of the
+language (pattern matching, higher-order functions), I feel I can both write and understand the code with ease.</p>
+<p>I also love SBT (Build Tool) and all the features it provides, I feel a productive developer when building applications in Scala.</p>
+<p>I understand and respect the criticism on the steep learning curve it requires.
+But personally I would rather invest on climbing that learning curve and have a more solid and maintainable application
+than pay the price of developing on another language and have bugs, runtime exceptions and/or poor maintainability
+down the road.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="strong-seconds---kotlin-java-crystal-rust">Strong seconds - Kotlin, Java, Crystal, Rust<a href="https://necosta.github.io/website/blog/lang-ranking#strong-seconds---kotlin-java-crystal-rust" class="hash-link" aria-label="Direct link to Strong seconds - Kotlin, Java, Crystal, Rust" title="Direct link to Strong seconds - Kotlin, Java, Crystal, Rust">​</a></h3>
+<p>I had the chance at some point of my life to try these programming languages and I had a good experience about all of them.</p>
+<p>Kotlin felt to me a "better Java", not excessive boilerplate code, I could quickly understand and become productive on a new repository.</p>
+<p>Crystal lang is not widely used but, for my sandbox projects, I enjoyed the simplicity and performance of this language.</p>
+<p>Finally, Rust. I definitely need more experience with the language, but I enjoyed the language features,
+didn't feel too hard to start developing on Rust.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="not-my-cup-of-tea---go-and-python">Not my cup of tea - Go and Python<a href="https://necosta.github.io/website/blog/lang-ranking#not-my-cup-of-tea---go-and-python" class="hash-link" aria-label="Direct link to Not my cup of tea - Go and Python" title="Direct link to Not my cup of tea - Go and Python">​</a></h3>
+<p>I have used in the past both Go and Python, and can't say it was a positive experience.</p>
+<p>With Go, I struggled with libraries dependency management as well as the lack of generics and advanced features. Always
+felt I had to write a lot of code to do some simple operations.</p>
+<p>With Python, I struggled with runtime bugs simply because of no type checking and what felt to me a poor testing setup.
+On top of all known criticisms of the language (such as poor performance and scaling issues), I would not use Python
+on a live production application.</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[My professional journey]]></title>
             <link>https://necosta.github.io/website/blog/professional-journey</link>
             <guid>https://necosta.github.io/website/blog/professional-journey</guid>
-            <pubDate>Fri, 14 Feb 2025 21:01:24 GMT</pubDate>
+            <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[My professional journey, technologies, highlights and life-long impressions.]]></description>
             <content:encoded><![CDATA[<p>My professional journey, technologies, highlights and life-long impressions.</p>
 <hr>
@@ -128,83 +205,6 @@ I feel I improved in so many different aspects in this project, from specificati
 I definitely feel I grew once again as an engineer.</p>
 <p>2024 was also a year of change with the birth of my daughter, definitely changing my perspective of life.</p>
 <p>Not sure what lies ahead, for now this is all I got. Hope you enjoyed it. 😊</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[My programming language ranking]]></title>
-            <link>https://necosta.github.io/website/blog/lang-ranking</link>
-            <guid>https://necosta.github.io/website/blog/lang-ranking</guid>
-            <pubDate>Fri, 14 Feb 2025 21:01:24 GMT</pubDate>
-            <description><![CDATA[My personal ranking of programming languages (just because I feel like it).]]></description>
-            <content:encoded><![CDATA[<p>My personal ranking of programming languages (just because I feel like it).</p>
-<hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-winner---scala">The winner - Scala<a href="https://necosta.github.io/website/blog/lang-ranking#the-winner---scala" class="hash-link" aria-label="Direct link to The winner - Scala" title="Direct link to The winner - Scala">​</a></h3>
-<p>Anyone that knows me well, knows that I rank Scala as the best, most enjoyable language to write software code.</p>
-<p>The flexibility it provides (from more "Java-like" structure to pure functional code), and the expressiveness of the
-language (pattern matching, higher-order functions), I feel I can both write and understand the code with ease.</p>
-<p>I also love SBT (Build Tool) and all the features it provides, I feel a productive developer when building applications in Scala.</p>
-<p>I understand and respect the criticism on the steep learning curve it requires.
-But personally I would rather invest on climbing that learning curve and have a more solid and maintainable application
-than pay the price of developing on another language and have bugs, runtime exceptions and/or poor maintainability
-down the road.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="strong-seconds---kotlin-java-crystal-rust">Strong seconds - Kotlin, Java, Crystal, Rust<a href="https://necosta.github.io/website/blog/lang-ranking#strong-seconds---kotlin-java-crystal-rust" class="hash-link" aria-label="Direct link to Strong seconds - Kotlin, Java, Crystal, Rust" title="Direct link to Strong seconds - Kotlin, Java, Crystal, Rust">​</a></h3>
-<p>I had the chance at some point of my life to try these programming languages and I had a good experience about all of them.</p>
-<p>Kotlin felt to me a "better Java", not excessive boilerplate code, I could quickly understand and become productive on a new repository.</p>
-<p>Crystal lang is not widely used but, for my sandbox projects, I enjoyed the simplicity and performance of this language.</p>
-<p>Finally, Rust. I definitely need more experience with the language, but I enjoyed the language features,
-didn't feel too hard to start developing on Rust.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="not-my-cup-of-tea---go-and-python">Not my cup of tea - Go and Python<a href="https://necosta.github.io/website/blog/lang-ranking#not-my-cup-of-tea---go-and-python" class="hash-link" aria-label="Direct link to Not my cup of tea - Go and Python" title="Direct link to Not my cup of tea - Go and Python">​</a></h3>
-<p>I have used in the past both Go and Python, and can't say it was a positive experience.</p>
-<p>With Go, I struggled with libraries dependency management as well as the lack of generics and advanced features. Always
-felt I had to write a lot of code to do some simple operations.</p>
-<p>With Python, I struggled with runtime bugs simply because of no type checking and what felt to me a poor testing setup.
-On top of all known criticisms of the language (such as poor performance and scaling issues), I would not use Python
-on a live production application.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Software laws to follow]]></title>
-            <link>https://necosta.github.io/website/blog/software-laws</link>
-            <guid>https://necosta.github.io/website/blog/software-laws</guid>
-            <pubDate>Fri, 14 Feb 2025 21:01:24 GMT</pubDate>
-            <description><![CDATA[Some of the most import software laws to be aware of.]]></description>
-            <content:encoded><![CDATA[<p>Some of the most import software laws to be aware of.</p>
-<hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="goodharts-law">Goodhart's Law<a href="https://necosta.github.io/website/blog/software-laws#goodharts-law" class="hash-link" aria-label="Direct link to Goodhart's Law" title="Direct link to Goodhart's Law">​</a></h3>
-<blockquote>
-<p>When a measure becomes a target, it ceases to become a good measure</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="murphys-law">Murphy's Law<a href="https://necosta.github.io/website/blog/software-laws#murphys-law" class="hash-link" aria-label="Direct link to Murphy's Law" title="Direct link to Murphy's Law">​</a></h3>
-<blockquote>
-<p>Anything that can go wrong, will go wrong</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="conways-law">Conway's Law<a href="https://necosta.github.io/website/blog/software-laws#conways-law" class="hash-link" aria-label="Direct link to Conway's Law" title="Direct link to Conway's Law">​</a></h3>
-<blockquote>
-<p>Organizations design systems that mirror their own communication structure</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="amdahls-law">Amdahl's Law<a href="https://necosta.github.io/website/blog/software-laws#amdahls-law" class="hash-link" aria-label="Direct link to Amdahl's Law" title="Direct link to Amdahl's Law">​</a></h3>
-<blockquote>
-<p>The performance improvement gained by optimizing a single part of a system is limited
-by the fraction of time that the improved part is actually used</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="parkinsons-law">Parkinson's Law<a href="https://necosta.github.io/website/blog/software-laws#parkinsons-law" class="hash-link" aria-label="Direct link to Parkinson's Law" title="Direct link to Parkinson's Law">​</a></h3>
-<blockquote>
-<p>Work expands to fill the time available for its completion</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="brookss-law">Brooks's Law<a href="https://necosta.github.io/website/blog/software-laws#brookss-law" class="hash-link" aria-label="Direct link to Brooks's Law" title="Direct link to Brooks's Law">​</a></h3>
-<blockquote>
-<p>Adding manpower to a late software project makes it later</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="segals-law">Segal's law:<a href="https://necosta.github.io/website/blog/software-laws#segals-law" class="hash-link" aria-label="Direct link to Segal's law:" title="Direct link to Segal's law:">​</a></h3>
-<blockquote>
-<p>A man with a watch knows what time it is. A man with two watches is never sure</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cunninghams-law">Cunningham's Law<a href="https://necosta.github.io/website/blog/software-laws#cunninghams-law" class="hash-link" aria-label="Direct link to Cunningham's Law" title="Direct link to Cunningham's Law">​</a></h3>
-<blockquote>
-<p>The best way to get the right answer from a community is not to ask a question, it's to post the wrong answer</p>
-</blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="humphreys-law">Humphrey's Law<a href="https://necosta.github.io/website/blog/software-laws#humphreys-law" class="hash-link" aria-label="Direct link to Humphrey's Law" title="Direct link to Humphrey's Law">​</a></h3>
-<blockquote>
-<p>The user will never know what they want until after they use it (and maybe not even then)</p>
-</blockquote>]]></content:encoded>
         </item>
     </channel>
 </rss>
