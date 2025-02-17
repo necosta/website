@@ -3,6 +3,7 @@ slug: lang-ranking
 title: My programming language ranking
 authors: [necosta]
 tags: []
+date: 2025-02-04T00:00
 ---
 
 My personal ranking of programming languages (just because I feel like it).

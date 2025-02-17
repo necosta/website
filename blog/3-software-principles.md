@@ -3,6 +3,7 @@ slug: software-laws
 title: Software laws to follow
 authors: [necosta]
 tags: []
+date: 2025-02-05T00:00
 ---
 
 Some of the most import software laws to be aware of.
@@ -36,7 +37,7 @@ Some of the most import software laws to be aware of.
 
 > Adding manpower to a late software project makes it later
 
-### Segal's law:
+### Segal's Law
 
 > A man with a watch knows what time it is. A man with two watches is never sure
 

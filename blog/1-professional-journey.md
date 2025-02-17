@@ -3,6 +3,7 @@ slug: professional-journey
 title: My professional journey
 authors: [necosta]
 tags: []
+date: 2025-01-31T00:00
 ---
 
 My professional journey, technologies, highlights and life-long impressions.
