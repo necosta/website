@@ -33,4 +33,11 @@ Deep dive on the different collections available in Scala and Java
 
 ## Java Collections
 
-TBD
+| Collection | Description                                                       | Similar         |
+|------------|-------------------------------------------------------------------|:----------------|
+| ArrayList  | Mutable - Best for random access and read operations              | Scala Vector    |
+| LinkedList | Best for frequent insertions and deletions                        | Scala List      |
+| HashSet    | No duplicates and no order of elements                            | Scala Set       |
+| TreeSet    | Sorted  - Best for sorted unique elements and range-based queries | Scala SortedSet |
+| HashMap    | stores key-value pairs and does not guarantee any specific order  | Scala Map       |
+| TreeMap    | Stores keys in sorted order                                       | Scala SortedMap |

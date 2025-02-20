@@ -6,7 +6,7 @@ title: Open source projects
 
 - [Pico - A Scala compression library](https://github.com/necosta/pico)
 
-# Open source articles (alphabetical order)
+## Open source articles
 
 - [Blog post - Productive Dev](https://github.com/necosta/blog-posts/blob/master/productive-dev/README.md)
 - [Medium - 101 to become a great software developer](https://medium.com/tblx-insider/the-101-to-become-a-great-software-developer-38dec79140ac)

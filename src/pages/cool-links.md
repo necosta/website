@@ -2,7 +2,7 @@
 title: Cool links
 ---
 
-## Cool links (alphabetical order)
+## Cool links
 
 - [Hack Tricks - Open-source cybersecurity knowledge base](https://hacktricks.xyz/)
 - [Hacker One - Bug bounty platform](https://hackerone.com/)
