@@ -8,18 +8,18 @@
     <subtitle>Nelson Costa Blog</subtitle>
     <icon>https://necosta.github.io/website/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Tech hypes/trends I've witnessed]]></title>
-        <id>https://necosta.github.io/website/blog/tech-hypes</id>
-        <link href="https://necosta.github.io/website/blog/tech-hypes"/>
+        <title type="html"><![CDATA[Tech trends I've witnessed]]></title>
+        <id>https://necosta.github.io/website/blog/tech-trends</id>
+        <link href="https://necosta.github.io/website/blog/tech-trends"/>
         <updated>2025-02-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some of the software industry tech hypes (or trends) I've witnessed through my career.]]></summary>
-        <content type="html"><![CDATA[<p>Some of the software industry tech hypes (or trends) I've witnessed through my career.</p>
+        <summary type="html"><![CDATA[Some of the software industry tech trends (or hypes) I've witnessed through my career.]]></summary>
+        <content type="html"><![CDATA[<p>Some of the software industry tech trends (or hypes) I've witnessed through my career.</p>
 <hr>
 <p>These days AI dominates as the new trend and is definitely here to stay.
 While I completely admire and praise the progress made these last years, I'm also cautious as I've seen too many times
 trends not keeping up with their promises and "the next big thing" just becoming the "hammer that makes everything look like a nail".</p>
-<p>Here are a few hypes (or let's call it disruptions 😊) I've witnessed over my career:</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="big-data">Big Data<a href="https://necosta.github.io/website/blog/tech-hypes#big-data" class="hash-link" aria-label="Direct link to Big Data" title="Direct link to Big Data">​</a></h3>
+<p>Here are a few trends (or let's call it disruptions 😊) I've witnessed over my career:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="big-data">Big Data<a href="https://necosta.github.io/website/blog/tech-trends#big-data" class="hash-link" aria-label="Direct link to Big Data" title="Direct link to Big Data">​</a></h3>
 <p>It was around 2013 that I got introduced to Big Data and, as a Data Engineer, it truly excited me.</p>
 <p>From 5 years working on mainly SQL Server relational databases and data warehouses, it made sense to me the whole
 "map-reduce" distributed jobs, capable of processing and aggregating huge amounts of data.</p>
@@ -34,7 +34,7 @@ and how stability improved. Running these days a Spark job on Databricks abstrac
 <p>Was it a hype? Definitely not, it changed the industry.
 But sad to find companies applying "Big Data" processing with data that fits on a single VM and projects running
 expensive Spark ETL data pipelines that re-aggregate the exact same data every day.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="agile">Agile<a href="https://necosta.github.io/website/blog/tech-hypes#agile" class="hash-link" aria-label="Direct link to Agile" title="Direct link to Agile">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="agile">Agile<a href="https://necosta.github.io/website/blog/tech-trends#agile" class="hash-link" aria-label="Direct link to Agile" title="Direct link to Agile">​</a></h3>
 <p>Agile arrived to me around 2012. I started having daily stand-ups (actually standing in a circle), sprint planning
 and retrospectives. I've been applying Agile methodology for more than 10 years and in most projects it worked relatively well.</p>
 <p>But the biggest problem I have with it? Often the focus becomes the process and not the project goals.</p>
@@ -55,7 +55,7 @@ they can have the side effect of reducing the team focus and ownership if not do
 <p>In conclusion, and in my personal opinion, the focus should not be on following Agile just because it was (and remains)
 the most popular project management framework but on finding the processes which each development team feel more comfortable
 and productive.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="microservices">Microservices<a href="https://necosta.github.io/website/blog/tech-hypes#microservices" class="hash-link" aria-label="Direct link to Microservices" title="Direct link to Microservices">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="microservices">Microservices<a href="https://necosta.github.io/website/blog/tech-trends#microservices" class="hash-link" aria-label="Direct link to Microservices" title="Direct link to Microservices">​</a></h3>
 <p>I started my career as a software developer deploying monolithic applications and only around 2016 microservices got introduced
 to me mainly driven by Kubernetes adoption and explosion.</p>
 <p>I do have a very positive opinion about microservices. Concepts like "single responsibility" and "well-defined APIs" make
@@ -73,7 +73,7 @@ development where, with efficient intra and cross-team communication, can work w
 that used a single repository (monorepo) with SBT multi-modules that deployed services without the need of Kubernetes, and it felt the
 optimised approach for an efficient delivery of that project.
 Lesson being not all architectures need to be solved with microservices.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="blockchain">Blockchain<a href="https://necosta.github.io/website/blog/tech-hypes#blockchain" class="hash-link" aria-label="Direct link to Blockchain" title="Direct link to Blockchain">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="blockchain">Blockchain<a href="https://necosta.github.io/website/blog/tech-trends#blockchain" class="hash-link" aria-label="Direct link to Blockchain" title="Direct link to Blockchain">​</a></h3>
 <p>Only around 2018 I started feeling the hype around blockchain. Companies claiming they had projects on blockchain
 even when it was obvious that all their use-case did not fit a solution with blockchain.</p>
 <p>Unlike Agile and Big Data, I feel this buzz was more short-lived.
@@ -82,13 +82,13 @@ Not that it does not have potential (definitely does), I guess the biggest issue
 <p>I don't have professional experience working with hyperledger/blockchain, but I did go to conferences in Lisbon about it
 and witnessed once again the fail of "promises given with caution" on the explosion of blockchain based startups in the
 period 2018-2020.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ai">AI<a href="https://necosta.github.io/website/blog/tech-hypes#ai" class="hash-link" aria-label="Direct link to AI" title="Direct link to AI">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ai">AI<a href="https://necosta.github.io/website/blog/tech-trends#ai" class="hash-link" aria-label="Direct link to AI" title="Direct link to AI">​</a></h3>
 <p>Perhaps just because it's the most recent "new big thing", the impact is felt stronger.</p>
 <p>Just like Google search left us without having to memorize, and the calculator left us without needing to perform mental calculations,
 feels that AI LLM GPTs are here to provide all answers to any question (including writing source code without the need of humans).</p>
 <p>We see many companies looking to integrate with "new AI", even when they don't have use cases for it (some are using ML for years
 and don't understand that ML is a branch of AI).</p>
-<p>As with all other "hypes", I believe we should remain down-to-earth, understand the benefits this technology brings but
+<p>As with all other "trends", I believe we should remain down-to-earth, understand the benefits this technology brings but
 also reflect on all the consequences of the usage of AI.
 We definitely don't want humans interacting with AI chatbots that "go in circle" (happens to me often), and we definitely
 don't want the next generation to lose creativity and reasoning because of AI "easy quick" outputs.
