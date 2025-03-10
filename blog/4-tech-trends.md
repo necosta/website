@@ -1,12 +1,12 @@
 ---
-slug: tech-hypes
-title: Tech hypes/trends I've witnessed
+slug: tech-trends
+title: Tech trends I've witnessed
 authors: [necosta]
 tags: []
 date: 2025-02-26T00:00
 ---
 
-Some of the software industry tech hypes (or trends) I've witnessed through my career.
+Some of the software industry tech trends (or hypes) I've witnessed through my career.
 
 <!-- truncate -->
 
@@ -16,7 +16,7 @@ These days AI dominates as the new trend and is definitely here to stay.
 While I completely admire and praise the progress made these last years, I'm also cautious as I've seen too many times 
 trends not keeping up with their promises and "the next big thing" just becoming the "hammer that makes everything look like a nail".
 
-Here are a few hypes (or let's call it disruptions 😊) I've witnessed over my career:
+Here are a few trends (or let's call it disruptions 😊) I've witnessed over my career:
 
 ### Big Data
 
@@ -115,7 +115,7 @@ feels that AI LLM GPTs are here to provide all answers to any question (includin
 We see many companies looking to integrate with "new AI", even when they don't have use cases for it (some are using ML for years
 and don't understand that ML is a branch of AI).
 
-As with all other "hypes", I believe we should remain down-to-earth, understand the benefits this technology brings but
+As with all other "trends", I believe we should remain down-to-earth, understand the benefits this technology brings but
 also reflect on all the consequences of the usage of AI.
 We definitely don't want humans interacting with AI chatbots that "go in circle" (happens to me often), and we definitely 
 don't want the next generation to lose creativity and reasoning because of AI "easy quick" outputs.
