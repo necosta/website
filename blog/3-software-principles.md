@@ -6,11 +6,13 @@ tags: []
 date: 2025-02-05T00:00
 ---
 
-Some of the most import software laws to be aware of.
+Some of the most import software laws and psychological behaviours to know.
 
 <!-- truncate -->
 
 ---
+
+## Laws
 
 ### Goodhart's Law
 
@@ -48,3 +50,27 @@ Some of the most import software laws to be aware of.
 ### Humphrey's Law
 
 > The user will never know what they want until after they use it (and maybe not even then)
+
+## Psychological effects
+
+### Bystander Effect
+
+> Everyone assuming someone else will take action, leading to inaction from everyone
+
+### Confirmation Bias
+
+> People tend to favor information that confirms their preexisting beliefs 
+> and dismiss information that contradicts them
+
+### Sunk Cost Fallacy
+
+> People will continue investing time, money, or effort into something simply because they’ve already 
+> invested so much, even if it's no longer the best choice.
+
+### Foot-in-the-Door Phenomenon
+
+> People are more likely to agree to a large request if they have already agreed to a smaller one beforehand
+
+### False Consensus Effect
+
+> People tend to overestimate how much others share their beliefs, opinions, or behaviors
