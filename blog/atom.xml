@@ -108,9 +108,10 @@ of written text but can't bring to life new concepts) but time will tell...</p>]
         <id>https://necosta.github.io/website/blog/software-laws</id>
         <link href="https://necosta.github.io/website/blog/software-laws"/>
         <updated>2025-02-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some of the most import software laws to be aware of.]]></summary>
-        <content type="html"><![CDATA[<p>Some of the most import software laws to be aware of.</p>
+        <summary type="html"><![CDATA[Some of the most import software laws and psychological behaviours to know.]]></summary>
+        <content type="html"><![CDATA[<p>Some of the most import software laws and psychological behaviours to know.</p>
 <hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="laws">Laws<a href="https://necosta.github.io/website/blog/software-laws#laws" class="hash-link" aria-label="Direct link to Laws" title="Direct link to Laws">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="goodharts-law">Goodhart's Law<a href="https://necosta.github.io/website/blog/software-laws#goodharts-law" class="hash-link" aria-label="Direct link to Goodhart's Law" title="Direct link to Goodhart's Law">​</a></h3>
 <blockquote>
 <p>When a measure becomes a target, it ceases to become a good measure</p>
@@ -147,6 +148,29 @@ by the fraction of time that the improved part is actually used</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="humphreys-law">Humphrey's Law<a href="https://necosta.github.io/website/blog/software-laws#humphreys-law" class="hash-link" aria-label="Direct link to Humphrey's Law" title="Direct link to Humphrey's Law">​</a></h3>
 <blockquote>
 <p>The user will never know what they want until after they use it (and maybe not even then)</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="psychological-effects">Psychological effects<a href="https://necosta.github.io/website/blog/software-laws#psychological-effects" class="hash-link" aria-label="Direct link to Psychological effects" title="Direct link to Psychological effects">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bystander-effect">Bystander Effect<a href="https://necosta.github.io/website/blog/software-laws#bystander-effect" class="hash-link" aria-label="Direct link to Bystander Effect" title="Direct link to Bystander Effect">​</a></h3>
+<blockquote>
+<p>Everyone assuming someone else will take action, leading to inaction from everyone</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="confirmation-bias">Confirmation Bias<a href="https://necosta.github.io/website/blog/software-laws#confirmation-bias" class="hash-link" aria-label="Direct link to Confirmation Bias" title="Direct link to Confirmation Bias">​</a></h3>
+<blockquote>
+<p>People tend to favor information that confirms their preexisting beliefs
+and dismiss information that contradicts them</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="sunk-cost-fallacy">Sunk Cost Fallacy<a href="https://necosta.github.io/website/blog/software-laws#sunk-cost-fallacy" class="hash-link" aria-label="Direct link to Sunk Cost Fallacy" title="Direct link to Sunk Cost Fallacy">​</a></h3>
+<blockquote>
+<p>People will continue investing time, money, or effort into something simply because they’ve already
+invested so much, even if it's no longer the best choice.</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foot-in-the-door-phenomenon">Foot-in-the-Door Phenomenon<a href="https://necosta.github.io/website/blog/software-laws#foot-in-the-door-phenomenon" class="hash-link" aria-label="Direct link to Foot-in-the-Door Phenomenon" title="Direct link to Foot-in-the-Door Phenomenon">​</a></h3>
+<blockquote>
+<p>People are more likely to agree to a large request if they have already agreed to a smaller one beforehand</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="false-consensus-effect">False Consensus Effect<a href="https://necosta.github.io/website/blog/software-laws#false-consensus-effect" class="hash-link" aria-label="Direct link to False Consensus Effect" title="Direct link to False Consensus Effect">​</a></h3>
+<blockquote>
+<p>People tend to overestimate how much others share their beliefs, opinions, or behaviors</p>
 </blockquote>]]></content>
         <author>
             <name>Nelson Costa</name>
